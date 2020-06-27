@@ -1,1 +1,1 @@
-# kalpak_2018
+Library Database Management system for University of Kerala Library.
